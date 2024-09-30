@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👋 Hello! I'm Juan Sebastián Marín Rodríguez  
+### Data Scientist
 
-<!--
-**JS-Marinn/Js-Marinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate data scientist currently pursuing my degree in Software Engineering. I focus on extracting valuable insights from data and transforming them into meaningful information. I leverage Python and various tools to tackle complex problems through data analysis, visualization, and predictive modeling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills and Tools
+
+- **Programming Languages:**  
+  - Python
+
+- **Other Tools:**  
+  - Jupyter Notebooks
+  - Git
+
+---
+
+## 🎓 Education
+
+- **Bachelor's in Software Engineering**  
+South Colombian University - Currently Enrolled
+
+---
+
+## 📫 Contact
+
+- **Email:** [mrsebastian097@outlook.com](mailto:mrsebastian097@outlook.com)
+- **LinkedIn:** [Profile of Juan Sebastian Marin Rodriguez]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/juan-sebastián-marín-rodríguez-1563b52b6/))
+
+---
+
+I'm always open to collaborations and new opportunities! Feel free to reach out if you'd like to discuss data science or any related topics. 🌐
