@@ -8,11 +8,11 @@ I am a passionate data scientist currently pursuing my degree in Software Engine
 ## 🌟 Skills and Tools
 
 - **Programming Languages:**  
-  - Python
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **Other Tools:**  
-  - Jupyter Notebooks
-  - Git
+  - ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat&logo=jupyter&logoColor=white) Jupyter Notebooks
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
 
 ---
 
