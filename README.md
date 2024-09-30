@@ -26,7 +26,7 @@ South Colombian University - Currently Enrolled
 ## 📫 Contact
 
 - **Email:** [mrsebastian097@outlook.com](mailto:mrsebastian097@outlook.com)
-- **LinkedIn:** [Profile of Juan Sebastian Marin Rodriguez](https://www.linkedin.com/in/juan-sebastián-marín-rodríguez-1563b52b6/))
+- **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/juan-sebastián-marín-rodríguez-1563b52b6/)
 
 ---
 
