@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Juan Sebastián Marín Rodríguez  
+# Hello! I'm Juan Sebastián Marín Rodríguez  
 ### Data Scientist
 
 I am a passionate data scientist currently pursuing my degree in Software Engineering. I focus on extracting valuable insights from data and transforming them into meaningful information. I leverage Python and various tools to tackle complex problems through data analysis, visualization, and predictive modeling.
